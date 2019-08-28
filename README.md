@@ -3,8 +3,8 @@
 ### I use Python well-known data analytics packages, numpy, panda, matplotlib, and seaborn to analyze this dataset.
 I manually found out some errors (Time format error) in the dataset and delete it, you can refer to my code for more detail
 
-Result: 1. The chart indicates the accident frequencies increased dramatically during 1940s which is WWII period.
-        2. Also, the chart shows during the 1960s, the frequency went high again, it might because of the introduction of the            jet planes, which wasn't and mature technology then.
+#### Result: 1. The chart indicates the accident frequencies increased dramatically during 1940s which is WWII period.
+#### 2. Also, the chart shows during the 1960s, the frequency went high again, it might because of the introduction of the            jet planes, which wasn't and mature technology then.
 
 
 ![Figure_1](https://user-images.githubusercontent.com/25861321/63814951-938cf580-c8e7-11e9-8962-ac73b504668c.png)
